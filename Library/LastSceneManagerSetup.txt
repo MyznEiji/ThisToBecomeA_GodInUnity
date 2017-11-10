@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Creation.unity
+- path: Assets/Scenes/MakeUpTheWorld.unity
   isLoaded: 1
   isActive: 1
