@@ -149,6 +149,8 @@
      <Compile Include="Assets\Scripts\BasicScript\hoge.cs" />
      <Compile Include="Assets\Scripts\BasicScript\ShotSpark.cs" />
      <Compile Include="Assets\Scripts\BasicScript\Tarret.cs" />
+     <Compile Include="Assets\Scripts\GUIAndAudio\FadeOut.cs" />
+     <Compile Include="Assets\Scripts\GUIAndAudio\RandomRotate.cs" />
      <Compile Include="Assets\Scripts\itween\Door.cs" />
      <Compile Include="Assets\Scripts\TheConceptAndStructure\DropTofu.cs" />
      <None Include="Assets\Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
