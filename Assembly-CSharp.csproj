@@ -141,6 +141,9 @@
      <Compile Include="Assets\Assets\Standard Assets\Utility\TimedObjectDestructor.cs" />
      <Compile Include="Assets\Assets\Standard Assets\Utility\WaypointCircuit.cs" />
      <Compile Include="Assets\Assets\Standard Assets\Utility\WaypointProgressTracker.cs" />
+     <Compile Include="Assets\Scripts\AnimationAndCharacter\CubeAnimation.cs" />
+     <Compile Include="Assets\Scripts\AnimationAndCharacter\hogehogeLight.cs" />
+     <Compile Include="Assets\Scripts\AnimationAndCharacter\HumanMove.cs" />
      <Compile Include="Assets\Scripts\BasicScript\Bullet.cs" />
      <Compile Include="Assets\Scripts\BasicScript\BulletBehaviour.cs" />
      <Compile Include="Assets\Scripts\BasicScript\hoge.cs" />
