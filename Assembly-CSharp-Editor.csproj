@@ -148,7 +148,7 @@
      <None Include="Assets\Assets\Allosaurus\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
      <None Include="Assets\Assets\Allosaurus\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendForBloom.shader" />
  <Reference Include="Assembly-UnityScript">
- <HintPath>/Users/miyazonoeiji/projects/Unity-Projects/ThisToBecomeA_GodInUnity/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <HintPath>/Users/miyazonoeiji/projects/unity-Projects/ThisToBecomeA_GodInUnity/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity2017.2.0f3.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
